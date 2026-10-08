@@ -25,6 +25,8 @@ where:
 - \(R\) is the radius
 - \(a\) is the half-width of the strip
 
+![Möbius Strip](mobius.png)
+
 ## Requirements
 
 Python 3 is required.
